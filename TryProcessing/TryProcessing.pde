@@ -45,7 +45,7 @@ public void draw()
   x1=x1+2;
   ellipse(x2,y+96+96,15,15);
   x2=x2+3;
-  ellipse(x3,y+96+96+96+96,15,15);
+  ellipse(x3,y+96+96+96,15,15);
   x3=x3+4;
 }
 
